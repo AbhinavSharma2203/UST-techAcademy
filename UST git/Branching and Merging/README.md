@@ -99,8 +99,3 @@ feature
   Your branch is ahead of 'origin/main' by 2 commits.
   (use "git push" to publish your local commits)
 
-nothing to commit, working tree clean
-PS C:\Users\Lenovo\OneDrive\Desktop\UST techAcademy> git push origin main
-Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To github.com:TharunPatel20/UST-techAcademy.git
-8ee7e93..33712b0 main -> main

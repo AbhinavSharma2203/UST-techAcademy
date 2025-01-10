@@ -32,7 +32,7 @@ Compressing objects: 100% (4/4), done.
 Writing objects: 100% (5/5), 869 bytes | 144.00 KiB/s, done.
 Total 5 (delta 1), reused 0 (delta 0), pack-reused 0 (from 0)
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
-To github.com:TharunPatel20/UST-techAcademy.git
+To (https://github.com/AbhinavSharma2203)
 e9fc022..8ee7e93 main -> main
 PS C:\Users\Lenovo\OneDrive\Desktop\UST techAcademy> git add .
 PS C:\Users\Lenovo\OneDrive\Desktop\UST techAcademy> git commit -m "main branch commit"
